@@ -1,0 +1,1 @@
+Add up to 6 place photos named place-01.jpg through place-06.jpg. See README.md.

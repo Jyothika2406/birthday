@@ -1,0 +1,1 @@
+Add up to 12 photos named memory-01.jpg through memory-12.jpg. See README.md.
